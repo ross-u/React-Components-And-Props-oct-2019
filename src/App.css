@@ -1,0 +1,18 @@
+.App {
+  margin: 15px;
+  font-family: Arial, sans-serif;
+  border: 1px solid black;
+  padding: 20px;
+  background: lightblue;
+}
+
+.welcome {
+  border: 4px solid rebeccapurple;
+  padding: 20px 50px;
+  text-align: center;
+  background: lightpink;
+}
+
+.user {
+  background: ghostwhite;
+} 
